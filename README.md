@@ -30,8 +30,8 @@ User Input → Python CLI → Prompt Engineering → Ollama LLM → Dockerfile O
 ---
 
 ## 📸 Screenshots
-![CLI UI](C:\Users\grand\Downloads\dockerfile-generator\screenshots\Screenshot 2025-12-23 150652.png)
-![Generated Dockerfile](C:\Users\grand\Downloads\dockerfile-generator\screenshots\Screenshot 2025-12-23 150818.png)
+![CLI UI](C:\Users\grand\Downloads\dockerfile-generator\screenshots\Screenshot1.png)
+![Generated Dockerfile](C:\Users\grand\Downloads\dockerfile-generator\screenshots\Screenshot2.png)
 
 ---
 
